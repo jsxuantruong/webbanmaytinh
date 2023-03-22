@@ -1,0 +1,132 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "nameProduct": "HP 348 G7",
+      "img": "https://anphat.com.vn/media/product/250_42668_laptop_hp_14s_dq5053tu_6r9m6pa__2_.jpg",
+      "view": 100,
+      "Evaluate": 10,
+      "Comment": 100,
+      "price": "20000000 VNĐ"
+    },
+    {
+      "id": 2,
+      "nameProduct": "HP 348 G7",
+      "img": "https://anphat.com.vn/media/product/250_44123_laptop_dell_latitude_3520_71004153__2_.jpg",
+      "view": 100,
+      "Evaluate": 10,
+      "Comment": 100,
+      "price": "20000000 VNĐ"
+    },
+    {
+      "id": 3,
+      "nameProduct": "HP 348 G7",
+      "img": "https://anphat.com.vn/media/product/250_44123_laptop_dell_latitude_3520_71004153__2_.jpg",
+      "view": 100,
+      "Evaluate": 10,
+      "Comment": 100,
+      "price": "40000000 VNĐ"
+    },
+    {
+      "id": 4,
+      "nameProduct": "HP 348 G7",
+      "img": "https://anphat.com.vn/media/product/250_44123_laptop_dell_latitude_3520_71004153__2_.jpg",
+      "view": 100,
+      "Evaluate": 10,
+      "Comment": 100,
+      "price": "90000000 VNĐ"
+    },
+    {
+      "id": 5,
+      "nameProduct": "HP 348 G7",
+      "img": "https://anphat.com.vn/media/product/250_44123_laptop_dell_latitude_3520_71004153__2_.jpg",
+      "view": 100,
+      "Evaluate": 10,
+      "Comment": 100,
+      "price": "40000000 VNĐ"
+    },
+    {
+      "id": 6,
+      "nameProduct": "HP 348 G7",
+      "img": "https://anphat.com.vn/media/product/250_44123_laptop_dell_latitude_3520_71004153__2_.jpg",
+      "view": 100,
+      "Evaluate": 10,
+      "Comment": 100,
+      "price": "90000000 VNĐ"
+    },
+    {
+      "id": 7,
+      "nameProduct": "HP 348 G7",
+      "img": "https://anphat.com.vn/media/product/250_44123_laptop_dell_latitude_3520_71004153__2_.jpg",
+      "view": 100,
+      "Evaluate": 10,
+      "Comment": 100,
+      "price": "40000000 VNĐ"
+    },
+    {
+      "id": 8,
+      "nameProduct": "HP 348 G7",
+      "img": "https://anphat.com.vn/media/product/250_44123_laptop_dell_latitude_3520_71004153__2_.jpg",
+      "view": 100,
+      "Evaluate": 10,
+      "Comment": 100,
+      "price": "90000000 VNĐ"
+    }
+  ],
+  "productPC": [
+    {
+      "id": 1,
+      "nameProduct": "HP 348 G7",
+      "img": "https://anphat.com.vn/media/product/250_42195_46282_poweredge_t150_ha2.jpg",
+      "view": 100,
+      "Evaluate": 10,
+      "Comment": 100,
+      "price": "20000000 VNĐ"
+    },
+    {
+      "id": 2,
+      "nameProduct": "HP 348 G7",
+      "img": "https://anphat.com.vn/media/product/250_42195_46282_poweredge_t150_ha2.jpg",
+      "view": 100,
+      "Evaluate": 10,
+      "Comment": 100,
+      "price": "20000000 VNĐ"
+    },
+    {
+      "id": 3,
+      "nameProduct": "HP 348 G7",
+      "img": "https://anphat.com.vn/media/product/250_42195_46282_poweredge_t150_ha2.jpg",
+      "view": 100,
+      "Evaluate": 10,
+      "Comment": 100,
+      "price": "40000000 VNĐ"
+    },
+    {
+      "id": 4,
+      "nameProduct": "HP 348 G7",
+      "img": "https://anphat.com.vn/media/product/250_42195_46282_poweredge_t150_ha2.jpg",
+      "view": 100,
+      "Evaluate": 10,
+      "Comment": 100,
+      "price": "90000000 VNĐ"
+    },
+    {
+      "id": 5,
+      "nameProduct": "HP 348 G7",
+      "img": "https://anphat.com.vn/media/product/250_42195_46282_poweredge_t150_ha2.jpg",
+      "view": 100,
+      "Evaluate": 10,
+      "Comment": 100,
+      "price": "40000000 VNĐ"
+    },
+    {
+      "id": 6,
+      "nameProduct": "HP 348 G7",
+      "img": "https://anphat.com.vn/media/product/250_44123_laptop_dell_latitude_3520_71004153__2_.jpg",
+      "view": 100,
+      "Evaluate": 10,
+      "Comment": 100,
+      "price": "90000000 VNĐ"
+    }
+  ]
+}

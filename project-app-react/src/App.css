@@ -1,0 +1,204 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.header_pc {
+  background-color: #546ce8;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  color: azure;
+  font-size: 15px;
+  margin-top: -40px;
+}
+.img_logo {
+  height: 80px;
+  margin-left: 9%;
+}
+.phone_info {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  margin: 10px;
+  margin-right: 30px;
+}
+.build_pc {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 10px;
+  margin-right: 30px;
+}
+.input_search {
+  height: 39px;
+  width: 300px;
+}
+.scat_id {
+  height: 39px;
+  width: 150px;
+}
+.btn {
+  height: 38px;
+  width: 130px;
+  margin-bottom: 5px;
+  background-color: #ffffff;
+}
+.header_item {
+  margin: 30px;
+}
+.user_pc {
+  margin: 10px;
+  margin-right: 30px;
+}
+.icon {
+  display: flex;
+  height: 40px;
+  width: 40px;
+  border-radius: 60px;
+  background-color: white;
+  color: #546ce8;
+  align-items: center;
+  justify-content: center;
+}
+.header-container {
+  margin-top: 20px;
+  margin-left: 5%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.item_conten {
+  display: flex;
+  flex-direction: row;
+  margin: 0px 10px 0px 20px;
+}
+.banner {
+  width: 100%;
+  height: 60px;
+}
+.img1 {
+  width: 100%;
+}
+
+.sidebar-menu {
+  list-style-type: none;
+  display: flex;
+}
+.menu-holder {
+  list-style-type: none;
+}
+.menu_category {
+  height: auto;
+  width: 300px;
+  border: 1px solid rgb(247, 246, 245);
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-left: 5%;
+  box-shadow: 0 30px 40px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  font-size: 15px;
+}
+.contentStyle {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column-reverse;
+  width: 400px;
+  margin-left: 3%;
+}
+.carosell {
+  height: 10px;
+  width: 800px;
+  margin-left: 80%;
+  float: left;
+}
+.banner_ads {
+  height: 100px;
+  margin-left: 10px;
+  display: flex;
+}
+.img-banner1 {
+  height: 450px;
+
+  border-radius: 10px;
+}
+.img-banner2 {
+  height: 150px;
+  width: 300px;
+  margin: 10px 5px 0px 5px;
+}
+.product_layout {
+  margin-top: 40px;
+}
+.product_title {
+  height: 50px;
+  width: 100%;
+  display: flex;
+  background-color: #61dafb;
+  align-items: center;
+  justify-content: center;
+}
+.product {
+  height: 420px;
+  width: 340px;
+  border: 1px solid;
+  margin-left: 30px;
+  margin-top: 20px;
+  border-radius: 20px;
+  box-shadow: 0 30px 40px rgba(0, 0, 0, 0.1);
+}
+.view-produc {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: gold;
+  gap: 10px;
+}
+.grid-layout {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.price{size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: red;}
+h4{
+  
+  color: crimson;
+}
+.h3{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
